@@ -1,0 +1,10 @@
+MISSION IMPOSSIBLE – PHT
+
+1. GitHub-Repository https://github.com/Sabrina180490/Tier-Safari öffnen.
+2. Alle Dateien dieses Ordners hochladen (nicht nur die HTML-Dateien!).
+3. Bestehende index.html beim Hochladen ersetzen/überschreiben; damit wird die bisherige Tier-Safari-Startseite ersetzt. Die alten Tierdateien bleiben bestehen.
+4. Änderungen übernehmen, 1–5 Minuten warten.
+5. https://sabrina180490.github.io/tier-safari/ öffnen.
+6. https://sabrina180490.github.io/tier-safari/qr-drucken.html öffnen und drucken.
+
+WICHTIG: Die QR-Codes verlinken bereits auf die bekannte URL /tier-safari/ mit Kleinbuchstaben. Falls die tatsächliche Pages-URL anders ist, müssen die QR-Codes neu erzeugt werden.
